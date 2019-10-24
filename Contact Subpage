@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .color{
+            background:powderblue;
+            }
+    </style>
+</head>
+<body class="color">
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDr-aFEv3jpWSR0lhqaAvlEhkAsYx7qnXPwCHeVHU8viVjuYCS width = 200px>
+<a href = "https://codehs.com/editor/html/1987398/1252396/index.html"><h3>Back to homepage</h3></a>
+
+<p>If you have any questions about the Boeing company and our products, please feel free to contact us by filling blanks below.</p>
+
+<h2>Contact us</h2>
+<ol>    
+<li><label>Name: <input type="text" name="name"></label></li>    
+<li><label>Email Address: <input type="text" name="email"></label></li>    
+<li><label>Telephone Number: <input type="text" name="phone"></label></li>
+<li><label>Information: <input type="text" name="so"></label></li>
+</ol> 
+
+<input type="button" onclick="alert('Hello World!')" value="Submit">
+<input type="button" onclick="alert('Hello World!')" value="Reset">
+
+</html>
