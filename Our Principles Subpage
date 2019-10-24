@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .color{
+            background:powderblue;
+            }
+    </style>
+</head>
+<body class="color">
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDr-aFEv3jpWSR0lhqaAvlEhkAsYx7qnXPwCHeVHU8viVjuYCS width = 200px>
+<a href = "https://codehs.com/editor/html/1987398/1252396/index.html"><h3>Back to homepage</h3></a>
+
+<h1>Our Principles</h1>
+<fieldset><legend><p>About Our Principles</p></legend>
+
+<fieldset>  
+<legend>Our Vision</legend>  
+<p>Over the past century, generations of talented Boeing employees helped build the world’s largest aerospace company—and shaped the course of history along the way. The Boeing Vision is an expression of our company’s purpose and values, designed to inspire and focus all employees on a shared future and to reaffirm that, together, we can meet the challenges that lie ahead.</p>
+</fieldset>
+
+<fieldset><legend><p>Annual Global Engagement Summary</p></legend>
+<p>For nearly 100 years, Boeing has been innovating to meet the needs of an ever-changing, fast-paced, worldwide environment. Our understanding of how to best connect and support people, businesses, and communities has been paramount to our ability to operate and create value in, and for, almost every region of the world.
+
+Creating shared value is what we do every day. We welcome you to experience Boeing.</p>
+</fieldset>
+
+<img src = http://www.boeing.com/resources/boeingdotcom/principles/overview/images/prin_2_summary.jpg length=300px>
+
+<fieldset><legend><p>Environment</p></legend>
+<p>Every day, Boeing employees find new and innovative ways to serve our global customers, and they are also committed to responsible environmental leadership – both in our products and in how we manufacture, deliver and support them. We are building a bigger and better Boeing across the breadth and depth of our businesses and our communities, and we are focused on helping build a better planet.
+</p>
+</fieldset>
+
+<img src = http://www.boeing.com/resources/boeingdotcom/principles/overview/images/prin3_environment.jpg>
+
+<fieldset><legend><p>Ethics & Compliance</p></legend>
+<p>At Boeing, our stance on ethical business conduct is simple: do the right thing, every time, no exceptions. Ensuring that Boeing’s enduring values remain foundational to our work requires a daily commitment from every employee. Our robust ethics and compliance program is focused on integrity, respect, accountability and inclusion—the same values that lead to strong business outcomes.</p>
+</fieldset>
+
+<img src = http://www.boeing.com/resources/boeingdotcom/principles/overview/images/prin4-ethics.jpg>
+
+</fieldset>
+
+</body>
+</html>
