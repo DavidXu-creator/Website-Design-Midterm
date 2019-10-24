@@ -1,0 +1,96 @@
+<!DOCTYPE html> 
+<head>
+    <style>
+        .color{
+            background:powderblue;
+            }
+    </style>
+</head>
+<body class="color">
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDr-aFEv3jpWSR0lhqaAvlEhkAsYx7qnXPwCHeVHU8viVjuYCS width=200px>
+<a href = "https://codehs.com/editor/html/1987398/1252396/index.html"><h3>Back to homepage</h3></a>
+<img src = https://thedefensepost.com/wp-content/uploads/2017/10/C-17-globemaster-liftoff-1170x610.jpg length = 1000px>
+
+<h1>Defense Products</h1>
+
+<div class = "nav">
+    <div class = "container">
+
+        <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_a10_310x215.jpg"> 
+        </div>
+        <div class = "title">
+            <p> A-10 Wing Replacement </p>
+        </div>
+
+    </div>
+
+     <div class = "container"><div class = "container">
+
+        <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_ah6i_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> AH-6 Light Attack Helicopter </p>
+        </div>
+
+        <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_apache_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> AH-64 Apache </p>
+        </div>
+
+    </div>
+    
+        <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_awacs_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> Airborne Early Warning & Control </p>
+        </div>
+
+    </div>
+    
+    <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_air_force_one_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> Air Force 1 </p>
+        </div>
+
+    </div>
+    
+    <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/airpower-teaming-system/airpower_teaming_system_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> Airpower Teaming System </p>
+        </div>
+
+    </div>
+
+        <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_autonomous_syst_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> Autonomous Systems </p>
+        </div>
+
+    </div>
+    
+    <div class = "image">
+            <img src = "http://www.boeing.com/resources/boeingdotcom/defense/defense_overview/images/defense_index_weapons_310x215.jpg">
+        </div>
+        <div class = "title">
+            <p> Weapons and More </p>
+        </div>
+
+    </div>
+
+    </div>
+</div> 
+
+<a href = "https://codehs.com/editor/html/1998590/1252396/index.html"><h3>Back to top</h3></a>
+
+</html>
